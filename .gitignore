@@ -15,6 +15,11 @@
 *.aliases
 *.lvlps
 
+# Data
+*.nii
+*.img
+*.hdr
+
 # =========================
 # Operating System Files
 # =========================
