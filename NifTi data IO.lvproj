@@ -19,15 +19,19 @@
 			<Item Name="Show_raw.00.vi" Type="VI" URL="../test/Show_raw.00.vi"/>
 			<Item Name="test_write.vi" Type="VI" URL="../test/test_write.vi"/>
 		</Item>
+		<Item Name="data2image.vi" Type="VI" URL="../data2image.vi"/>
 		<Item Name="data2image_2d.vi" Type="VI" URL="../data2image_2d.vi"/>
 		<Item Name="data2image_3d.vi" Type="VI" URL="../data2image_3d.vi"/>
 		<Item Name="data2image_4d.vi" Type="VI" URL="../data2image_4d.vi"/>
 		<Item Name="datatype2string.vi" Type="VI" URL="../datatype2string.vi"/>
+		<Item Name="image2data.vi" Type="VI" URL="../image2data.vi"/>
 		<Item Name="image2data_2d.vi" Type="VI" URL="../image2data_2d.vi"/>
 		<Item Name="image2data_3d.vi" Type="VI" URL="../image2data_3d.vi"/>
 		<Item Name="image2data_4d.vi" Type="VI" URL="../image2data_4d.vi"/>
+		<Item Name="image2variant.vi" Type="VI" URL="../image2variant.vi"/>
 		<Item Name="nii_file.vi" Type="VI" URL="../nii_file.vi"/>
-		<Item Name="nii_read.vi" Type="VI" URL="../nii_read.vi"/>
+		<Item Name="nii_head.vi" Type="VI" URL="../nii_head.vi"/>
+		<Item Name="nii_read_data.vi" Type="VI" URL="../nii_read_data.vi"/>
 		<Item Name="nii_read_head.vi" Type="VI" URL="../nii_read_head.vi"/>
 		<Item Name="nii_write.vi" Type="VI" URL="../nii_write.vi"/>
 		<Item Name="string2datatype.vi" Type="VI" URL="../string2datatype.vi"/>
@@ -35,6 +39,7 @@
 		<Item Name="variant_2d.vi" Type="VI" URL="../variant_2d.vi"/>
 		<Item Name="variant_3d.vi" Type="VI" URL="../variant_3d.vi"/>
 		<Item Name="variant_4d.vi" Type="VI" URL="../variant_4d.vi"/>
+		<Item Name="variant_nd.vi" Type="VI" URL="../variant_nd.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Check if File or Folder Exists.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Check if File or Folder Exists.vi"/>
